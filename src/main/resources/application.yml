@@ -1,0 +1,5 @@
+test:
+  api:
+    url: http://localhost:9090/testapi/employee
+    
+server:  servlet:    context-path: /myapi
